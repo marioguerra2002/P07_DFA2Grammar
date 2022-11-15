@@ -1,0 +1,27 @@
+2
+a
+b
+4
+S
+A
+B
+C
+S
+15
+S -> aA
+S -> &
+S -> bS
+S -> &
+S -> cS
+S -> &
+A -> aA
+A -> bB
+A -> cS
+A -> &
+B -> aB
+B -> bS
+B -> cC
+B -> &
+C -> aC
+C -> bC
+C -> cC
